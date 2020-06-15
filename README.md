@@ -43,10 +43,10 @@ it as output. Callback is the function thats passed as the argument of another f
 
 4. Describe the four rules of the 'this' keyword.
 
- 1. Window/Global Object Binding - using this outside of any object
-  2. Implicit Binding - method is apart of parent object
-  3. New Binding - using constructors to create new object
-  4.  Explicit Binding - copying objects method on another objects property
+ - Window/Global Object Binding - using this outside of any object
+  - Implicit Binding - method is apart of parent object
+  - New Binding - using constructors to create new object
+  - Explicit Binding - copying objects method on another objects property
 
 5. Why do we need super() in an extended class?
 
